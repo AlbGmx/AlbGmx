@@ -1,7 +1,9 @@
+     
+
 <h1 align="center"> Hi there, I'm Alberto Gómez 👋</h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=5CCCCC&vCenter=true&pause=1000&size=22" /></a>
 </p>
 <!-- Social icons section -->
 <p align="center">  
@@ -11,7 +13,7 @@
 <a href="https://www.hackerrank.com/albgmx" target="blank"><img align="center" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:4px"/></a>
   
 - 🔭 I’m currently working on **Dexcom** as a Software Engineer 
-- 🌱 I’m currently learning Swift
+- 🌱 I’m currently learning **Swift**
 
 </p>
   <h2>🛠️ My Favorite Tools</h2>
@@ -56,13 +58,13 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=AlbGmx&show_icons=true&theme=radical" />
+      <img src="https://github-readme-stats.vercel.app/api?username=AlbGmx&show_icons=true&theme=radical&title_color=5CCCCC"/>
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlbGmx&theme=radical" />
-    </td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlbGmx&theme=radical"/>
+    </td>  
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbGmx&layout=compact&theme=radical&exclude_repo=P1_IHC,P2_IHC,P3_IHC&hide=roff,cmake" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbGmx&layout=compact&theme=radical&title_color=5CCCCC" />
     </td>
   </tr>
 </table>
