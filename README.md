@@ -19,7 +19,7 @@
   <h2>🛠️ My Favorite Tools</h2>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
-  <h3>👨‍💻 Programming and Markup Languages</h3>
+  <h3>👨‍💻 Programming Languages</h3>
 
   <p>
       <a href="https://github.com/search?q=user%3AAlbGmx+language%3Ac"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
